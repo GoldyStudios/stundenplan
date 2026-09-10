@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Studium Kalender</title>
+  <meta
+    name="description"
+    content="Studium Kalender – abonnierbare Termine für alle Kurse."
+  >
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <div>
+          <span class="eyebrow">STUDIUM</span>
+          <h1>Mein Studium Kalender</h1>
+          <p>
+            Alle relevanten Lehrveranstaltungen an einem Ort.
+            Kalender abonnieren oder Termine direkt ansehen.
+          </p>
+        </div>
+
+        <div class="hero-actions">
+          <a
+            id="subscribeButton"
+            class="button button-primary"
+            href="#"
+          >
+            📅 Kalender abonnieren
+          </a>
+
+          <a
+            id="downloadButton"
+            class="button button-secondary"
+            href="calendar.ics"
+            download
+          >
+            ↓ ICS herunterladen
+          </a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="stats">
+      <div class="stat-card">
+        <span class="stat-label">Termine</span>
+        <strong id="eventCount">–</strong>
+      </div>
+
+      <div class="stat-card">
+        <span class="stat-label">Kurse</span>
+        <strong id="courseCount">–</strong>
+      </div>
+
+      <div class="stat-card">
+        <span class="stat-label">Nächster Termin</span>
+        <strong id="nextEvent">–</strong>
+      </div>
+    </section>
+
+    <section class="toolbar">
+      <div class="search-wrapper">
+        <label for="searchInput">Suche</label>
+        <input
+          id="searchInput"
+          type="search"
+          placeholder="Kurs, Raum, Dozent ..."
+          autocomplete="off"
+        >
+      </div>
+
+      <div class="filter-wrapper">
+        <label for="courseFilter">Kurs</label>
+        <select id="courseFilter">
+          <option value="all">Alle Kurse</option>
+        </select>
+      </div>
+
+      <div class="filter-wrapper">
+        <label for="locationFilter">Ort</label>
+        <select id="locationFilter">
+          <option value="all">Alle Orte</option>
+        </select>
+      </div>
+
+      <button id="clearFilters" class="button button-small">
+        Filter zurücksetzen
+      </button>
+    </section>
+
+    <section class="subscription-info">
+      <div class="subscription-icon">🔗</div>
+
+      <div>
+        <h2>Kalender abonnieren</h2>
+        <p>
+          Verwende die folgende URL in Apple Kalender, Outlook,
+          Google Kalender oder einer anderen Kalender-App.
+        </p>
+
+        <div class="url-box">
+          <code id="calendarUrl">Wird geladen ...</code>
+
+          <button id="copyUrlButton" class="copy-button">
+            Kopieren
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="calendar-section">
+      <div class="section-heading">
+        <div>
+          <span class="eyebrow">ÜBERSICHT</span>
+          <h2>Termine</h2>
+        </div>
+
+        <div id="resultInfo" class="result-info"></div>
+      </div>
+
+      <div id="loading" class="state">
+        <div class="spinner"></div>
+        <p>Kalender wird geladen ...</p>
+      </div>
+
+      <div id="error" class="state state-error hidden">
+        <div class="state-icon">⚠️</div>
+        <h3>Kalender konnte nicht geladen werden</h3>
+        <p id="errorMessage"></p>
+      </div>
+
+      <div id="empty" class="state hidden">
+        <div class="state-icon">📭</div>
+        <h3>Keine Termine gefunden</h3>
+        <p>Ändere deine Filter oder Suchbegriffe.</p>
+      </div>
+
+      <div id="eventsContainer" class="events-container"></div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-content">
+      <span>Studium Kalender</span>
+      <span id="lastUpdated"></span>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

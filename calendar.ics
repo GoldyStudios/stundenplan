@@ -1,0 +1,774 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Studium Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Studium
+X-WR-TIMEZONE:Europe/Vienna
+
+BEGIN:VEVENT
+UID:vdm-20260928-0945@studium
+DTSTART;TZID=Europe/Vienna:20260928T094500
+DTEND;TZID=Europe/Vienna:20260928T120000
+SUMMARY:Visualisierung und Datamining
+LOCATION:Hörsaal (WS46b.01.103)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Hörsaal (WS46b.01.103)\nNotiz: mit MSD
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20260928-1230@studium
+DTSTART;TZID=Europe/Vienna:20260928T123000
+DTEND;TZID=Europe/Vienna:20260928T144500
+SUMMARY:Visualisierung und Datamining
+LOCATION:Hörsaal (WS46b.01.103)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Hörsaal (WS46b.01.103)\nNotiz: mit MSD
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20260930-0845@studium
+DTSTART;TZID=Europe/Vienna:20260930T084500
+DTEND;TZID=Europe/Vienna:20260930T101500
+SUMMARY:Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20260930-1030@studium
+DTSTART;TZID=Europe/Vienna:20260930T103000
+DTEND;TZID=Europe/Vienna:20260930T124500
+SUMMARY:Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261001-0845@studium
+DTSTART;TZID=Europe/Vienna:20261001T084500
+DTEND;TZID=Europe/Vienna:20261001T114500
+SUMMARY:Servertechnologien
+LOCATION:EDV Labor (WS46b.01.100)
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor (WS46b.01.100)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20261001-0845@studium
+DTSTART;TZID=Europe/Vienna:20261001T084500
+DTEND;TZID=Europe/Vienna:20261001T110000
+SUMMARY:Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261002-1400@studium
+DTSTART;TZID=Europe/Vienna:20261002T140000
+DTEND;TZID=Europe/Vienna:20261002T144500
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g2-20261002-1400@studium
+DTSTART;TZID=Europe/Vienna:20261002T140000
+DTEND;TZID=Europe/Vienna:20261002T144500
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g1-20261002-1400@studium
+DTSTART;TZID=Europe/Vienna:20261002T140000
+DTEND;TZID=Europe/Vienna:20261002T144500
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g2-20261002-1400@studium
+DTSTART;TZID=Europe/Vienna:20261002T140000
+DTEND;TZID=Europe/Vienna:20261002T144500
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261002-1615@studium
+DTSTART;TZID=Europe/Vienna:20261002T161500
+DTEND;TZID=Europe/Vienna:20261002T183000
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g2-20261002-1615@studium
+DTSTART;TZID=Europe/Vienna:20261002T161500
+DTEND;TZID=Europe/Vienna:20261002T183000
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g1-20261002-1615@studium
+DTSTART;TZID=Europe/Vienna:20261002T161500
+DTEND;TZID=Europe/Vienna:20261002T183000
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g2-20261002-1615@studium
+DTSTART;TZID=Europe/Vienna:20261002T161500
+DTEND;TZID=Europe/Vienna:20261002T183000
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261006-1130@studium
+DTSTART;TZID=Europe/Vienna:20261006T113000
+DTEND;TZID=Europe/Vienna:20261006T130000
+SUMMARY:Hackathon
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261007-0845@studium
+DTSTART;TZID=Europe/Vienna:20261007T084500
+DTEND;TZID=Europe/Vienna:20261007T134500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261008-0845@studium
+DTSTART;TZID=Europe/Vienna:20261008T084500
+DTEND;TZID=Europe/Vienna:20261008T110000
+SUMMARY:Visualisierung und Datamining
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)\nNotiz: UE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261009-1545@studium
+DTSTART;TZID=Europe/Vienna:20261009T154500
+DTEND;TZID=Europe/Vienna:20261009T181500
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g2-20261009-1545@studium
+DTSTART;TZID=Europe/Vienna:20261009T154500
+DTEND;TZID=Europe/Vienna:20261009T181500
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g1-20261009-1545@studium
+DTSTART;TZID=Europe/Vienna:20261009T154500
+DTEND;TZID=Europe/Vienna:20261009T181000
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g2-20261009-1545@studium
+DTSTART;TZID=Europe/Vienna:20261009T154500
+DTEND;TZID=Europe/Vienna:20261009T181000
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261009-1900@studium
+DTSTART;TZID=Europe/Vienna:20261009T190000
+DTEND;TZID=Europe/Vienna:20261009T211500
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g2-20261009-1900@studium
+DTSTART;TZID=Europe/Vienna:20261009T190000
+DTEND;TZID=Europe/Vienna:20261009T211500
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g1-20261009-1900@studium
+DTSTART;TZID=Europe/Vienna:20261009T190000
+DTEND;TZID=Europe/Vienna:20261009T211500
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g2-20261009-1900@studium
+DTSTART;TZID=Europe/Vienna:20261009T190000
+DTEND;TZID=Europe/Vienna:20261009T211500
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261012-0845@studium
+DTSTART;TZID=Europe/Vienna:20261012T084500
+DTEND;TZID=Europe/Vienna:20261012T110000
+SUMMARY:Visualisierung und Datamining
+LOCATION:Online
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Online\nNotiz: mit MSD
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261012-1130@studium
+DTSTART;TZID=Europe/Vienna:20261012T113000
+DTEND;TZID=Europe/Vienna:20261012T134500
+SUMMARY:Visualisierung und Datamining
+LOCATION:Online
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Online\nNotiz: mit MSD
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261014-0845@studium
+DTSTART;TZID=Europe/Vienna:20261014T084500
+DTEND;TZID=Europe/Vienna:20261014T110000
+SUMMARY:Visualisierung und Datamining
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)\nNotiz: UE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261014-1130@studium
+DTSTART;TZID=Europe/Vienna:20261014T113000
+DTEND;TZID=Europe/Vienna:20261014T143000
+SUMMARY:Servertechnologien
+LOCATION:Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261014-1445@studium
+DTSTART;TZID=Europe/Vienna:20261014T144500
+DTEND;TZID=Europe/Vienna:20261014T161500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261016-1130@studium
+DTSTART;TZID=Europe/Vienna:20261016T113000
+DTEND;TZID=Europe/Vienna:20261016T143000
+SUMMARY:Servertechnologien
+LOCATION:Speziallabor NEST Kapfenberg 2 (WS46b.01.105)
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Speziallabor NEST Kapfenberg 2 (WS46b.01.105)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261020-1400@studium
+DTSTART;TZID=Europe/Vienna:20261020T140000
+DTEND;TZID=Europe/Vienna:20261020T161500
+SUMMARY:Visualisierung und Datamining
+LOCATION:Hörsaal (WS46b.01.103)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Hörsaal (WS46b.01.103)\nNotiz: mit MSD
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261021-0845@studium
+DTSTART;TZID=Europe/Vienna:20261021T084500
+DTEND;TZID=Europe/Vienna:20261021T110000
+SUMMARY:⚠️ Visualisierung und Datamining
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)\nNotiz: UE\nÜberschneidung mit: Research Skills & Practices
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20261021-0845@studium
+DTSTART;TZID=Europe/Vienna:20261021T084500
+DTEND;TZID=Europe/Vienna:101500
+SUMMARY:⚠️ Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)\nÜberschneidung mit: Visualisierung und Datamining
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20261021-1030@studium
+DTSTART;TZID=Europe/Vienna:20261021T103000
+DTEND;TZID=Europe/Vienna:20261021T124500
+SUMMARY:⚠️ Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)\nÜberschneidung mit: Visualisierung und Datamining
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261022-1415@studium
+DTSTART;TZID=Europe/Vienna:20261022T141500
+DTEND;TZID=Europe/Vienna:20261022T180000
+SUMMARY:Hackathon
+LOCATION:Audimax (WS46c.01.102)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Audimax (WS46c.01.102)\nNotiz: AI Summit
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261023-0845@studium
+DTSTART;TZID=Europe/Vienna:20261023T084500
+DTEND;TZID=Europe/Vienna:20261023T134500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)\nNotiz: AI Summit oder 004??
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261023-1400@studium
+DTSTART;TZID=Europe/Vienna:20261023T140000
+DTEND;TZID=Europe/Vienna:20261023T180000
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g2-20261023-1400@studium
+DTSTART;TZID=Europe/Vienna:20261023T140000
+DTEND;TZID=Europe/Vienna:20261023T180000
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g1-20261023-1400@studium
+DTSTART;TZID=Europe/Vienna:20261023T140000
+DTEND;TZID=Europe/Vienna:20261023T180000
+SUMMARY:ERP - Gruppe 1
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 1\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g2-20261023-1400@studium
+DTSTART;TZID=Europe/Vienna:20261023T140000
+DTEND;TZID=Europe/Vienna:20261023T180000
+SUMMARY:ERP - Gruppe 2
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 2\nRaum: Hörsaal (WS46a.01.101)\nNotiz: gruppenübergreifend
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261109-1300@studium
+DTSTART;TZID=Europe/Vienna:20261109T130000
+DTEND;TZID=Europe/Vienna:20261109T161500
+SUMMARY:Cross Cultural Communication
+LOCATION:MS Teams
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: MS Teams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-vz-20261104-1345@studium
+DTSTART;TZID=Europe/Vienna:20261104T134500
+DTEND;TZID=Europe/Vienna:20261104T174500
+SUMMARY:International Marketing & Market Research
+LOCATION:Seminarraum (WS46a.01.102)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: M24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: M240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nRaum: Seminarraum (WS46a.01.102)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-vz-20261105-1345@studium
+DTSTART;TZID=Europe/Vienna:20261105T134500
+DTEND;TZID=Europe/Vienna:20261105T174500
+SUMMARY:International Marketing & Market Research
+LOCATION:Seminarraum (WS46a.01.102)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: M24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: M240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nRaum: Seminarraum (WS46a.01.102)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-bb-20261031-1330@studium
+DTSTART;TZID=Europe/Vienna:20261031T133000
+DTEND;TZID=Europe/Vienna:20261031T173000
+SUMMARY:International Marketing & Market Research
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: m24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: m240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nRaum: Hörsaal (WS46a.01.101)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261111-1400@studium
+DTSTART;TZID=Europe/Vienna:20261111T140000
+DTEND;TZID=Europe/Vienna:20261111T170000
+SUMMARY:Servertechnologien
+LOCATION:EDV Labor (WS46b.01.100)
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor (WS46b.01.100)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261111-0845@studium
+DTSTART;TZID=Europe/Vienna:20261111T084500
+DTEND;TZID=Europe/Vienna:20261111T110000
+SUMMARY:Visualisierung und Datamining
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)\nNotiz: UE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261116-1300@studium
+DTSTART;TZID=Europe/Vienna:20261116T130000
+DTEND;TZID=Europe/Vienna:20261116T161500
+SUMMARY:⚠️ Cross Cultural Communication
+LOCATION:MS Teams
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: MS Teams\nÜberschneidung mit: Visualisierung und Datamining
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261116-1400@studium
+DTSTART;TZID=Europe/Vienna:20261116T140000
+DTEND;TZID=Europe/Vienna:20261116T161500
+SUMMARY:⚠️ Visualisierung und Datamining
+LOCATION:Hörsaal (WS46b.01.103)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Hörsaal (WS46b.01.103)\nNotiz: mit MSD\nÜberschneidung mit: Cross Cultural Communication
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vdm-20261117-1130@studium
+DTSTART;TZID=Europe/Vienna:20261117T113000
+DTEND;TZID=Europe/Vienna:20261117T134500
+SUMMARY:Visualisierung und Datamining
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Visualisierung und Datamining\nKurs-ID: B22.0418311\nKursart: IL\nDozent: ATAS, Müslüm\nModulcode: 220418306\nModul: Visualisierung und Datamining\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)\nNotiz: UE
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261117-1400@studium
+DTSTART;TZID=Europe/Vienna:20261117T140000
+DTEND;TZID=Europe/Vienna:20261117T153000
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-vz-20261117-1800@studium
+DTSTART;TZID=Europe/Vienna:20261117T180000
+DTEND;TZID=Europe/Vienna:20261117T200300
+SUMMARY:International Marketing & Market Research
+LOCATION:MS Teams
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: M24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: M240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nRaum: MS Teams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261117-1800@studium
+DTSTART;TZID=Europe/Vienna:20261117T180000
+DTEND;TZID=Europe/Vienna:20261117T184500
+SUMMARY:ERP - Gruppe 1
+LOCATION:MS Teams
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: MS Teams\nHinweis: Keine Überschneidung mit Vollzeit-Termin, da unterschiedliche Studienformen.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261118-0845@studium
+DTSTART;TZID=Europe/Vienna:20261118T084500
+DTEND;TZID=Europe/Vienna:20261118T134500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-vz-20261119-1345@studium
+DTSTART;TZID=Europe/Vienna:20261119T134500
+DTEND;TZID=Europe/Vienna:20261119T174500
+SUMMARY:International Marketing & Market Research
+LOCATION:Seminarraum (WS46a.01.102)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: M24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: M240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nRaum: Seminarraum (WS46a.01.102)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261120-1400@studium
+DTSTART;TZID=Europe/Vienna:20261120T140000
+DTEND;TZID=Europe/Vienna:20261120T171500
+SUMMARY:ERP - Gruppe 1
+LOCATION:EDV Labor (WS46a.01.109)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: EDV Labor (WS46a.01.109)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g1-20261120-1400@studium
+DTSTART;TZID=Europe/Vienna:20261120T140000
+DTEND;TZID=Europe/Vienna:20261120T171500
+SUMMARY:ERP - Gruppe 1
+LOCATION:EDV Labor (WS46a.01.109)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 1\nRaum: EDV Labor (WS46a.01.109)\nHinweis: Keine Überschneidung mit Berufsbegleitend-Termin, da unterschiedliche Studienformen.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g2-20261120-1400@studium
+DTSTART;TZID=Europe/Vienna:20261120T140000
+DTEND;TZID=Europe/Vienna:20261120T171500
+SUMMARY:ERP - Gruppe 2
+LOCATION:EDV Labor (WS46a.U1.U01)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 2\nRaum: EDV Labor (WS46a.U1.U01)\nHinweis: Keine Überschneidung mit Gruppe 1, da unterschiedliche Gruppen.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-bb-20261107-1330@studium
+DTSTART;TZID=Europe/Vienna:20261107T133000
+DTEND;TZID=Europe/Vienna:20261107T173000
+SUMMARY:International Marketing & Market Research
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: m24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: m240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nRaum: Hörsaal (WS46a.01.101)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261124-0900@studium
+DTSTART;TZID=Europe/Vienna:20261124T090000
+DTEND;TZID=Europe/Vienna:20261124T121500
+SUMMARY:Cross Cultural Communication
+LOCATION:Hörsaal (WS46a.02.206)
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: Hörsaal (WS46a.02.206)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261124-1300@studium
+DTSTART;TZID=Europe/Vienna:20261124T130000
+DTEND;TZID=Europe/Vienna:20261124T170500
+SUMMARY:Cross Cultural Communication
+LOCATION:Hörsaal (WS46a.02.206)
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: Hörsaal (WS46a.02.206)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-vz-20261125-1345@studium
+DTSTART;TZID=Europe/Vienna:20261125T134500
+DTEND;TZID=Europe/Vienna:20261125T174500
+SUMMARY:⚠️ International Marketing & Market Research
+LOCATION:Seminarraum (WS46a.01.102)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: M24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: M240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nRaum: Seminarraum (WS46a.01.102)\nÜberschneidung mit: Cross Cultural Communication
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261125-1400@studium
+DTSTART;TZID=Europe/Vienna:20261125T140000
+DTEND;TZID=Europe/Vienna:20261125T180500
+SUMMARY:⚠️ Cross Cultural Communication
+LOCATION:Hörsaal (WS46a.02.206)
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: Hörsaal (WS46a.02.206)\nÜberschneidung mit: International Marketing & Market Research (Vollzeit)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261126-0845@studium
+DTSTART;TZID=Europe/Vienna:20261126T084500
+DTEND;TZID=Europe/Vienna:20261126T114500
+SUMMARY:Servertechnologien
+LOCATION:Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261127-0900@studium
+DTSTART;TZID=Europe/Vienna:20261127T090000
+DTEND;TZID=Europe/Vienna:20261127T113000
+SUMMARY:Cross Cultural Communication
+LOCATION:Hörsaal (WS46a.02.206)
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: Hörsaal (WS46a.02.206)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261127-1145@studium
+DTSTART;TZID=Europe/Vienna:20261127T114500
+DTEND;TZID=Europe/Vienna:20261127T131500
+SUMMARY:Cross Cultural Communication
+LOCATION:Hörsaal (WS46a.02.206)
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: Hörsaal (WS46a.02.206)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-bb-g1-20261203-0900@studium
+DTSTART;TZID=Europe/Vienna:20261203T090000
+DTEND;TZID=Europe/Vienna:20261203T121500
+SUMMARY:ERP - Gruppe 1
+LOCATION:EDV Labor (WS46a.01.109)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: m24.0590107\nKursart: IL\nDozent: Kohlbacher, Herbert\nModulcode: m240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nGruppe: Gruppe 1\nRaum: EDV Labor (WS46a.01.109)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:erp-vz-g1-20261203-0900@studium
+DTSTART;TZID=Europe/Vienna:20261203T090000
+DTEND;TZID=Europe/Vienna:20261203T121500
+SUMMARY:ERP - Gruppe 1
+LOCATION:EDV Labor (WS46a.01.109)
+DESCRIPTION:Kurs: Enterprise Ressource Planning (ERP)\nKurs-ID: M24.0590107\nKursart: IL\nDozent: Batalla Martinez, Sergi, Kohlbacher, Herbert\nModulcode: M240590107\nModul: Enterprise Ressource Planning (ERP)\nStudiengang: International Industrial Management\nStudiengang-Code: IIM24\nStudienform: Vollzeit\nGruppe: Gruppe 1\nRaum: EDV Labor (WS46a.01.109)\nHinweis: Keine Überschneidung mit Berufsbegleitend-Termin, da unterschiedliche Studienformen.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20261202-0845@studium
+DTSTART;TZID=Europe/Vienna:20261202T084500
+DTEND;TZID=Europe/Vienna:20261202T101500
+SUMMARY:Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20261202-1030@studium
+DTSTART;TZID=Europe/Vienna:20261202T103000
+DTEND;TZID=Europe/Vienna:20261202T124500
+SUMMARY:Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261201-0845@studium
+DTSTART;TZID=Europe/Vienna:20261201T084500
+DTEND;TZID=Europe/Vienna:20261201T134500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261209-0845@studium
+DTSTART;TZID=Europe/Vienna:20261209T084500
+DTEND;TZID=Europe/Vienna:20261209T134500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261210-0845@studium
+DTSTART;TZID=Europe/Vienna:20261210T084500
+DTEND;TZID=Europe/Vienna:20261210T114500
+SUMMARY:Servertechnologien
+LOCATION:Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261210-1445@studium
+DTSTART;TZID=Europe/Vienna:20261210T144500
+DTEND;TZID=Europe/Vienna:20261210T161500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20261215-0845@studium
+DTSTART;TZID=Europe/Vienna:20261215T084500
+DTEND;TZID=Europe/Vienna:20261215T134500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261217-0845@studium
+DTSTART;TZID=Europe/Vienna:20261217T084500
+DTEND;TZID=Europe/Vienna:20261217T114500
+SUMMARY:Servertechnologien
+LOCATION:Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Speziallabor NEST Kapfenberg 1 (WS46b.01.104)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:server-20261218-0845@studium
+DTSTART;TZID=Europe/Vienna:20261218T084500
+DTEND;TZID=Europe/Vienna:20261218T101500
+SUMMARY:Servertechnologien
+LOCATION:Online
+DESCRIPTION:Kurs: Servertechnologien\nKurs-ID: B22.0418306\nKursart: IL\nDozent: Brickmann, Michael\nModulcode: 220418303\nModul: Servertechnologien\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Online
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20270108-0845@studium
+DTSTART;TZID=Europe/Vienna:20270108T084500
+DTEND;TZID=Europe/Vienna:20270108T134500
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20270113-0845@studium
+DTSTART;TZID=Europe/Vienna:20270113T084500
+DTEND;TZID=Europe/Vienna:20270113T101500
+SUMMARY:Research Skills & Practices
+LOCATION:Seminarraum (WS46b.02.205)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Seminarraum (WS46b.02.205)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:hackathon-20270121-0845@studium
+DTSTART;TZID=Europe/Vienna:20270121T084500
+DTEND;TZID=Europe/Vienna:20270121T130000
+SUMMARY:Hackathon
+LOCATION:EDV Labor BYOD (WS46b.EG.004)
+DESCRIPTION:Kurs: Hackathon\nKurs-ID: B22.0418317\nKursart: SE\nDozent: Feiner, Johannes\nModulcode: 220418309\nModul: Hackathon\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: EDV Labor BYOD (WS46b.EG.004)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:rs-20270129-1400@studium
+DTSTART;TZID=Europe/Vienna:20270129T140000
+DTEND;TZID=Europe/Vienna:20270129T174500
+SUMMARY:Research Skills & Practices
+LOCATION:Audimax (WS46c.01.102)
+DESCRIPTION:Kurs: Research Skills & Practices\nKurs-ID: B22.0418506\nKursart: SE\nDozent: Kletzenbauer, Petra\nModulcode: 220418503\nModul: Research Skills & Practices\nStudiengang: Software Design & Cloud Computing\nStudiengang-Code: ITM22\nRaum: Audimax (WS46c.01.102)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ccc-20261130-1500@studium
+DTSTART;TZID=Europe/Vienna:20261130T150000
+DTEND;TZID=Europe/Vienna:20261130T173000
+SUMMARY:Cross Cultural Communication
+LOCATION:MS Teams
+DESCRIPTION:Kurs: Cross Cultural Communication\nKurs-ID: B22.0589506\nKursart: SE\nDozenten: Perez-Alonso, Azucena; Tomaschitz, Melanie; Uclés-Sanchez, Francisco Javier\nModulcode: 220589506\nModul: Cross Cultural Communication\nStudiengang: Industriewirtschaft / Industrial Management\nStudiengang-Code: IWV22\nGruppe: Gruppe 3_Incomings\nRaum: MS Teams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-bb-20261110-1800@studium
+DTSTART;TZID=Europe/Vienna:20261110T180000
+DTEND;TZID=Europe/Vienna:20261110T200800
+SUMMARY:International Marketing & Market Research
+LOCATION:MS Teams
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: m24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: m240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nRaum: MS Teams
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-bb-20261114-1330@studium
+DTSTART;TZID=Europe/Vienna:20261114T133000
+DTEND;TZID=Europe/Vienna:20261114T173000
+SUMMARY:International Marketing & Market Research
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: m24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: m240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nRaum: Hörsaal (WS46a.01.101)
+END:VEVENT
+
+BEGIN:VEVENT
+UID:marketing-bb-20261121-1330@studium
+DTSTART;TZID=Europe/Vienna:20261121T133000
+DTEND;TZID=Europe/Vienna:20261121T173000
+SUMMARY:International Marketing & Market Research
+LOCATION:Hörsaal (WS46a.01.101)
+DESCRIPTION:Kurs: International Marketing & Market Research\nKurs-ID: m24.0590108\nKursart: IL\nDozent: Sußmann, Michael\nModulcode: m240590108\nModul: International Marketing & Market Research\nStudiengang: International Industrial Management\nStudiengang-Code: IMB24_BB\nStudienform: Berufsbegleitend\nRaum: Hörsaal (WS46a.01.101)
+END:VEVENT
+
+END:VCALENDAR
